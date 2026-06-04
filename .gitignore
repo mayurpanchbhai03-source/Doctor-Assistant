@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+.history/
+streamlit.out.log
+streamlit.err.log
+*.pyc
+key.env
+*.env
